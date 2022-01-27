@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bharat525/linkdin-master.git/static/css/main.7ded0792.css",
+    "main.js": "/Bharat525/linkdin-master.git/static/js/main.aa955aed.js",
+    "index.html": "/Bharat525/linkdin-master.git/index.html",
+    "main.7ded0792.css.map": "/Bharat525/linkdin-master.git/static/css/main.7ded0792.css.map",
+    "main.aa955aed.js.map": "/Bharat525/linkdin-master.git/static/js/main.aa955aed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ded0792.css",
+    "static/js/main.aa955aed.js"
+  ]
+}
